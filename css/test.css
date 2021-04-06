@@ -18,3 +18,6 @@ text-transform: uppercase;
 .big.uppercase{
 color: navy;
 }
+h1 span{
+	font-style: italic;
+}
