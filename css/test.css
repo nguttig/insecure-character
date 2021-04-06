@@ -1,0 +1,20 @@
+body{
+	background-color: #E0E0E0;
+}
+h1{
+font-size: 30px;
+color: #A04000
+}
+h2{
+font-size: 20px;
+color: #2E4053;
+}
+.big{
+font-size: 60px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color: navy;
+}
