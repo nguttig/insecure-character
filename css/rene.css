@@ -1,0 +1,25 @@
+body{
+	 margin: 0;
+	 font-family: 'Monserrat', 'Arial', sans-serif;
+}
+header{
+	background-color: #3498DB;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1{
+	font-family: 'Permanent Marker', cursive;
+}
+
+header h1{
+	color: white;
+
+}
+
+header img{
+	border-radius: 171px;
+    width: 151px;
+    border: 10px solid #1A5276;
+}
